@@ -1,0 +1,20 @@
+@import url("responsive.css");
+@import url("navbar.css");
+@import url("home.css");
+@import url("content.css");
+@import url("modal.css");
+
+a{
+    text-decoration: none;
+}
+
+li{
+    list-style: none;
+}
+.display-off{
+    display: none !important;
+}
+
+.grey{
+    color: #868E96;
+}
